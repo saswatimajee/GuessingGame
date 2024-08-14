@@ -1,6 +1,6 @@
 Simple Guessing Game
 
-The game generates guesses till it reaches the correct number.
+The game generates guesses till it reaches the correct number. This is made using Java and Java Swing feature using 
 
 ![Screenshot 2024-08-14 130931](https://github.com/user-attachments/assets/1d482504-0fc5-4bfd-8616-4f648333c031)
 
