@@ -1,4 +1,4 @@
-Simple Guessing Game
+# Simple Guessing Game
 
 The game generates guesses till it reaches the correct number. This is made using Java and Java Swing feature
 
